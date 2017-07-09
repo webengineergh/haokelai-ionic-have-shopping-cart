@@ -1,0 +1,17 @@
+#start{
+    position: fixed;
+    top:50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    text-align: center;
+}
+.price{
+    color: red;
+}
+.responsive{
+    display: block;
+    max-width: 100%;
+}
+.row{
+    border: 1px solid #ddd;
+}
